@@ -1,6 +1,6 @@
 module github.com/ExplodingDragon/go-rpmutils
 
-go 1.21.1
+go 1.13
 
 require (
 	github.com/DataDog/zstd v1.4.5
